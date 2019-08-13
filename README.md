@@ -7,7 +7,7 @@ This is a sample program to demonstrate the usage of EJS view engine in Express 
 
 ```
 -  First Download or Clone the Repository.
-- In the downlaod directory,Using terminal put these commands 
+- In the Download directory,Using terminal put these commands 
    cd EXPRESS-EJS-Demo
    npm install
    node app.js
